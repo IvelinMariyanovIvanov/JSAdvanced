@@ -1,6 +1,6 @@
 class BookCollection {
 
-  
+  //test
     constructor(shelfGenre, room, shelfCapacity){
         this.shelfGenre = shelfGenre;
         this.room = room;
