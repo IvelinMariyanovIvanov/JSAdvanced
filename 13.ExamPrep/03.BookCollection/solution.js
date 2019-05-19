@@ -1,4 +1,6 @@
 class BookCollection {
+
+    // test only git
     constructor(shelfGenre, room, shelfCapacity){
         this.shelfGenre = shelfGenre;
         this.room = room;
